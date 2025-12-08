@@ -11,9 +11,7 @@ This system monitors an inbox, detects unread messages, auto-generates replies u
 - Automatic email checking using IMAP
 - HTML-based auto-reply templates (Friendly, Professional, and more)
 - Real-time preview window for message templates
-- Custom recipient name input
-- Integrated signature:  
-  **A.Apiwish (Apiwish Anutarvanichkul)**  
+- Custom recipient name input  
 - Dark mode UI (because light mode is for people who don’t love their eyeballs)
 - Designed with Python, Tkinter, and high-performance corporate buzzword energy
 
